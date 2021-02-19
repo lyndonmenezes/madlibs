@@ -22,10 +22,11 @@ their blood. And everyone knows that makes kids feel {adj2}. When they \
 are scared by a movie or a/an {noun}.Boys laugh and holler and {verb}.\
 But girls cover their eyes with their {plural_noun3} and keep screaming \
 and {verb_ending_in_ing}. Most kids get over this by the time they are \
-{number} years old. Then they like movies about cars {verb_ending_in_ing2} \
+{a_number} years old. Then they like movies about cars {verb_ending_in_ing2} \
 or cops shooting {plural_noun4} or, if they are girls, they like movies \
 about a boy meeting a/an {noun_2} and falling in love. Ofcourse, that \
 can be scary, too."
 
 
 print(madlibs)
+
