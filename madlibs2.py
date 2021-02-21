@@ -1,3 +1,7 @@
+# Easy madlibs to use. You can choose any type of sentence you want. This is just example.
+# Using formatted string to concatenate.
+
+# Variables To take an input to use on runtime
 adj = input("Adjective: ")
 plural_noun = input("Plural noun: ")
 plural_noun2 = input("Plural noun: ")
